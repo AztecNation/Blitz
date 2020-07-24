@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'NzM2MjQ0NDY3Mzg4MTIxMTA4.Xxr_Fw.HAqIj6JNE1MSbLm9Sc8gleKkAnI';
 const ytdl = require('ytdl-core');
 
 
@@ -174,4 +173,4 @@ client.on('message', message => {
 });
 
 
-client.login(process.env.xuUQ9qOsUXwlq8T9W6Sk5QQ5pnfE - aaG);
+client.login(process.env.XnQ8HyJ7e7LtILsOVI_WV0Oq1uDLe6kE);
