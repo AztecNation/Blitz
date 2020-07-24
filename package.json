@@ -1,0 +1,17 @@
+{
+    "name": "blitz-bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "author": "Hero",
+    "license": "ISC",
+    "dependencies": {
+        "core.js": "^0.4.2",
+        "discord.js": "^12.2.0",
+        "opusscript": "0.0.7",
+        "ytdl-core": "^3.1.2"
+    }
+}
